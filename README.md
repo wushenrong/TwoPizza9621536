@@ -20,7 +20,7 @@ Wecome to my GitHub profile page, this is a page where you can learn about me.
 
 :copyright: License:
 
-The license is under CC0 using GitHub's template.
+The license is under CC0 using GitHub's template - see LICENSE for more info.
 
 <!--
 **TwoPizza9621536/TwoPizza9621536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
