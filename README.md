@@ -21,7 +21,8 @@ Wecome to my GitHub profile page, this is a page where you can learn about me.
 ## Statistics:
 [![Years Badge](https://badges.pufler.dev/years/TwoPizza9621536)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/TwoPizza9621536)](https://badges.pufler.dev)
-
+![Twitter Follow](https://img.shields.io/twitter/follow/Twopizza9621536?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/twopizza9621536?style=social)
 
 ## :copyright: License:
 
