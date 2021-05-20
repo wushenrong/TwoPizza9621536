@@ -12,7 +12,7 @@ Wecome to my GitHub profile page, this is a page where you can learn about me.
 
 - 💬 Ask me about anything if I can answer it.
 
-- 📫 How to reach me: Twitter @twopizza9621536.
+- 📫 How to reach me: Twitter or keybase @twopizza9621536.
 
 - 😄 Pronouns: He/Him
 
