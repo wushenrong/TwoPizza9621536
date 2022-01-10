@@ -2,7 +2,7 @@
 
 Wecome to my GitHub profile page, this is a page where you can learn about me.
 
-- 🔭 I’m currently working on RepoOfTime, a repostory where I dump my code.
+- 🔭 I’m currently working on VideoListerLibrary, do you hate YouTube's GUI well I do.
 
 - 🌱 I’m currently learning C like languages.
 
