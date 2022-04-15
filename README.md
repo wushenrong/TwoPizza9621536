@@ -2,21 +2,21 @@
 
 Wecome to my GitHub profile page, this is a page where you can learn about me.
 
-- 🔭 I’m currently working on VideoListerLibrary, do you hate YouTube's GUI well I do.
+- 🔭 I’m currently working on Social Media Catalog (not an actual catalog), do you hate UI well I do.
 
-- 🌱 I’m currently learning C like languages.
+- 🌱 I’m currently learning how to use imgui.
 
 - 👯 I’m looking to collaborate on anything opensource.
 
-- 🤔 I’m looking for help with Windows SDK.
+- 🤔 I’m looking for help with nothing right now.
 
 - 💬 Ask me about anything if I can answer it.
 
-- 📫 How to reach me: Twitter or keybase @twopizza9621536.
+- 📫 How to reach me: Any methods listed in the contact page of my github.io page.
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun facts/favorites: Blue :blue_square:, Sino-American :cn::us:, zodiacs because why not aries :aries: and dog :dog:.
+- ⚡ Fun facts/favorites: Blue :blue_square:, Chinese American :cn::us:, zodiacs because why not aries :aries: and dog :dog:.
 
 ## Statistics:
 
